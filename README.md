@@ -2,7 +2,7 @@
 
 Welcome to DragonQuest, a Streamlit-based game and level editor where you can explore dungeons, design your own levels, and embark on exciting adventures.
 
-![DragonQuest Preview](insert_screenshot_or_gif_url_here)
+[![DragonQuest Preview](https://img.youtube.com/vi/nDD9emhEZhA/0.jpg)](https://www.youtube.com/watch?v=nDD9emhEZhA)
 
 ## Features
 
