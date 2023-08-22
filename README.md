@@ -16,7 +16,7 @@ Welcome to DragonQuest, a Streamlit-based game and level editor where you can ex
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YourUsername/DragonQuest-Streamlit-Game.git
+   git clone https://github.com/vikasharma005/DragonQuest.git
    cd DragonQuest-Streamlit-Game
    ```
 
@@ -60,6 +60,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Enjoy your adventure in the DragonQuest world! Create, explore, and share your dungeon levels with other players.
-```
-
-Replace `YourUsername` with your actual GitHub username, and insert a screenshot or GIF URL in place of `insert_screenshot_or_gif_url_here`. You can further customize the content to match your app's information and structure.
